@@ -19,6 +19,10 @@ Source code is not included.
 
 Download the latest version from the Releases page.
 
+## Install
+
+https://feedlinelabs.com/airpulse-raspberry-pi-setup.html
+
 ## Documentation
 
 https://feedlinelabs.com
