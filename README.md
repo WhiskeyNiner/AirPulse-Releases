@@ -25,6 +25,8 @@ Raspberry PI: https://feedlinelabs.com/airpulse-raspberry-pi-setup.html
 
 Linux : https://feedlinelabs.com/airpulse-linux-setup.html
 
+macOS : https://feedlinelabs.com/airpulse-macos-setup.html
+
 ## Accessing the Control Panel
 
 This Computer
