@@ -21,7 +21,9 @@ Download the latest version from the Releases page.
 
 ## Install
 
-https://feedlinelabs.com/airpulse-raspberry-pi-setup.html
+Raspberry PI: https://feedlinelabs.com/airpulse-raspberry-pi-setup.html
+
+Linux : https://feedlinelabs.com/airpulse-linux-setup.html
 
 ## Documentation
 
